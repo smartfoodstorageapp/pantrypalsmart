@@ -1,0 +1,2 @@
+fresh
+not_fresh
